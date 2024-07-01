@@ -1,0 +1,20 @@
+<Accounts>
+    <Account xsi:type="CurrentAccount">
+        <label>Checking</label>
+        <balance>1000.0</balance>
+        <accountNumber>101</accountNumber>
+        <client>
+            <firstname>John</firstname>
+            <lastname>Doe</lastname>
+        </client>
+    </Account>
+    <Account xsi:type="SavingAccount">
+        <label>Savings</label>
+        <balance>1500.0</balance>
+        <accountNumber>102</accountNumber>
+        <client>
+            <firstname>Jane</firstname>
+            <lastname>Doe</lastname>
+        </client>
+    </Account>
+</Accounts>

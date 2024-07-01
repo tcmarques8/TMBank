@@ -1,0 +1,27 @@
+[
+    {
+        "comment": "Salary",
+        "amount": 2000.0,
+        "targetAccountNumber": 1,
+        "effect": true,
+        "date": "2024-06-26",
+        "type": "Credit"
+    },
+    {
+        "comment": "Rent",
+        "amount": 800.0,
+        "targetAccountNumber": 5,
+        "effect": true,
+        "date": "2023-01-03",
+        "type": "Debit"
+    },
+    {
+        "comment": "Transfer to Savings",
+        "amount": 200.0,
+        "targetAccountNumber": 2,
+        "effect": true,
+        "date": "2023-01-05",
+        "type": "Transfer",
+        "accountNumber": 1
+    }
+]
